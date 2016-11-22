@@ -1,0 +1,15 @@
+{
+    "name": "yangj444/zxh",
+    "description": "In order to study composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GeHou",
+            "email": "***@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+  
+    }
+}
